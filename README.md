@@ -1,4 +1,4 @@
 # students_mark_calculations
 **Author Name** - Maruf Chowdhury
 <br>
-**Description: ** - This is a python code for to find out students mark calculations. 
+**Description: ** - A lightweight repository for storing and sharing small Python programs that solve practical problems, demonstrate concepts, or add a little fun to everyday coding. Perfect for quick projects, experiments, and learning moments. Includes scripts on file handling, object-oriented programming, data formatting, and more!
