@@ -1,3 +1,5 @@
+# Create a Python program that simulates a game where a player receives a random score. The program should compare it to the previous high score and update the record if the new score is higher.
+
 import os
 import random
 
