@@ -1,3 +1,5 @@
+# Create a Python program to store information for multiple students and display their data in a formatted table
+
 from tabulate import tabulate
 
 class Student:
